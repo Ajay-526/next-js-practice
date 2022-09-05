@@ -5,6 +5,7 @@ function AllEventsPage() {
 
   return (
     <div>
+      <h1>Hello Ajay</h1>
       <EventListItems items={events}/>
     </div>
   )
